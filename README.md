@@ -35,7 +35,8 @@ Future success will depend on how effectively BMW scales its electric and digita
 
 ---
 
-## 👤 Author
-**Your Name**  
-Case Study Project for *[Your Course / Institution]*  
-📅 *October 2025*
+## 👤 Author 
+*ABHAY PRATAP SINGH*
+BABU BANARASI DAS UNIVERSITY 
+BBA(BA)
+5TH SEMESTER 
